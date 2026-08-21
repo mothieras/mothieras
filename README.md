@@ -1,3 +1,4 @@
+# moth
 Building controllable AI agents and production-minded backend systems.
 
 Focus on runtime architecture, isolation, trust boundaries, observability, and evidence-driven evaluation. I work mainly with TypeScript, Java, and Python.
