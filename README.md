@@ -1,8 +1,6 @@
-# moth
-
 Building controllable AI agents and production-minded backend systems.
 
-I focus on runtime architecture, isolation, trust boundaries, observability, and evidence-driven evaluation. I work mainly with TypeScript, Java, and Python.
+Focus on runtime architecture, isolation, trust boundaries, observability, and evidence-driven evaluation. I work mainly with TypeScript, Java, and Python.
 
 ## Selected work
 
@@ -14,7 +12,3 @@ I focus on runtime architecture, isolation, trust boundaries, observability, and
 ## Engineering focus
 
 `Agent runtimes` · `Backend architecture` · `Isolation & security` · `RAG evaluation`
-
-## Writing
-
-Engineering notes on backend systems, AI agents, and ML fundamentals: [mothieras.github.io](https://mothieras.github.io/)
