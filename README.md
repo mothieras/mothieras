@@ -1,6 +1,7 @@
-# moth
+# moth 👋
 
-I turn agent and RAG prototypes into observable, testable backend systems,
-with explicit boundaries around tools, data, and execution.
+Hi! I build backend systems and AI agents — turning
+agent/RAG prototypes into observable, testable setups with
+clear boundaries around tools, data, and execution.
 
-`Agent runtimes` · `Backend architecture` · `Isolation & security` · `RAG evaluation`
+`TypeScript` · `Java` · `Python` · frontend, barely. 🙃
