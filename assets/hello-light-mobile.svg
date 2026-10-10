@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="118" viewBox="0 0 480 118" role="img" aria-labelledby="title description">
+<title id="title">Hi, I'm moth (@mothieras)</title>
+<desc id="description">A short, text-only introduction: backend systems and AI agents.</desc>
+<rect width="480" height="118" fill="#ffffff"/>
+<text x="0" y="32" fill="#432e3c" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400">Hi, I&#x27;m moth.</text><text x="0" y="72" fill="#76566b" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400">Backend systems &amp; AI agents</text>
+<path d="M0 117H480" stroke="#ecc5d6" fill="none"/>
+</svg>
