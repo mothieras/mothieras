@@ -19,19 +19,4 @@ Most of my recent work is on **agent runtimes, task delegation and traceable kno
 
 Also building: [moj-code-sandbox](https://github.com/mothieras/moj-code-sandbox), a Docker-based code sandbox for Java, Python and C++.
 
-## Open-source contribution
-
-**[CodeIsland #361](https://github.com/wxtsky/CodeIsland/pull/361)** · Merged October 9, 2026
-
-Enabled Codex hooks without corrupting existing TOML configuration. The fix preserves unrelated settings and formatting across local and remote installers.
-
-<details>
-<summary>What changed</summary>
-
-- Recognize the actual feature flag rather than similarly named keys in other tables or strings.
-- Preserve comments, line endings and unrelated values; reject unsupported layouts without rewriting the file.
-- Exercise local and remote behavior with shared regression fixtures.
-
-</details>
-
 [All repositories](https://github.com/mothieras?tab=repositories) · [Pull requests](https://github.com/pulls?q=is%3Apr+author%3Amothieras+is%3Apublic)
