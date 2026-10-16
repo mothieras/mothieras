@@ -7,16 +7,17 @@
 </picture>
 </p>
 
-Most of my recent work is on **agent runtimes, task delegation and traceable knowledge**.
+I'm currently working on **Python backend development and AI applications**, while exploring **Rust** and **TypeScript-based agent runtimes**.
 
-`TypeScript` · `Java` · `Python` · frontend, barely.
+I also like building small tools for the agents I use and contributing to open-source projects when I find something worth improving.
 
-## Selected work
+`Python` · `Java` · `TypeScript` · `Rust`
+
+## Projects
 
 - **[pi-subagent](https://github.com/mothieras/pi-subagent)** — Task delegation for Pi: separate contexts, scoped tools, parallel tasks and background execution. Derived from Pi's official subagent example.
 - **[coil-core](https://github.com/mothieras/coil-core)** — A local-first coding-agent engine with MCP, concurrent subagents and replayable sessions. The core runs without a UI.
 - **[agent-knowledge-base](https://github.com/mothieras/agent-knowledge-base)** — Self-hosted retrieval and shared knowledge for agents, with citations you can trace to their source. A local-deployment prototype.
-
-Also building: [moj-code-sandbox](https://github.com/mothieras/moj-code-sandbox), a Docker-based code sandbox for Java, Python and C++.
+- **[moj-code-sandbox](https://github.com/mothieras/moj-code-sandbox)** — A Docker-based code sandbox for Java, Python and C++.
 
 [All repositories](https://github.com/mothieras?tab=repositories) · [Pull requests](https://github.com/pulls?q=is%3Apr+author%3Amothieras+is%3Apublic)
