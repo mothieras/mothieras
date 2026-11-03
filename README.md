@@ -15,7 +15,6 @@ I also like building small tools for the agents I use and contributing to open-s
 
 ## Projects
 
-- **[pi-subagent](https://github.com/mothieras/pi-subagent)** — Task delegation for Pi: separate contexts, scoped tools, parallel tasks and background execution. Derived from Pi's official subagent example.
 - **[coil-core](https://github.com/mothieras/coil-core)** — A local-first coding-agent engine with MCP, concurrent subagents and replayable sessions. The core runs without a UI.
 - **[agent-knowledge-base](https://github.com/mothieras/agent-knowledge-base)** — Self-hosted retrieval and shared knowledge for agents, with citations you can trace to their source. A local-deployment prototype.
 - **[moj-code-sandbox](https://github.com/mothieras/moj-code-sandbox)** — A Docker-based code sandbox for Java, Python and C++.
