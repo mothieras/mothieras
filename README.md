@@ -1,22 +1,30 @@
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hello-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/hello-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
-  <img src="assets/hello-light.svg" alt="Hi, I'm moth (@mothieras). I build backend systems and AI agents." width="100%">
+  <img src="assets/hello-light.svg" alt="Hi, I'm moth." width="176">
 </picture>
 </p>
 
-I'm currently working on **Python backend development and AI applications**, while exploring **Rust** and **TypeScript-based agent runtimes**.
+I work on Python backends and AI systems, and like building agent runtimes and tooling in TypeScript.
 
-I also like building small tools for the agents I use and contributing to open-source projects when I find something worth improving.
+<sub>Python · TypeScript · Java</sub>
 
-`Python` · `Java` · `TypeScript` · `Rust`
+### Projects
 
-## Projects
+**[coil-core](https://github.com/mothieras/coil-core)** <sub>· TypeScript</sub><br>
+Embeddable, local-first coding-agent engine with concurrent subagents and [session recovery](https://github.com/mothieras/coil-core/blob/main/examples/recover-session.ts).
 
-- **[coil-core](https://github.com/mothieras/coil-core)** — A local-first coding-agent engine with MCP, concurrent subagents and replayable sessions. The core runs without a UI.
-- **[agent-knowledge-base](https://github.com/mothieras/agent-knowledge-base)** — Self-hosted retrieval and shared knowledge for agents, with citations you can trace to their source. A local-deployment prototype.
-- **[moj-code-sandbox](https://github.com/mothieras/moj-code-sandbox)** — A Docker-based code sandbox for Java, Python and C++.
+**[agent-knowledge-base](https://github.com/mothieras/agent-knowledge-base)** <sub>· Python</sub><br>
+Self-hosted hybrid retrieval and traceable shared knowledge for agents — local prototype with [agent evals](https://github.com/mothieras/agent-knowledge-base/blob/main/eval/reports/agents-2026-09-21.md).
 
-[All repositories](https://github.com/mothieras?tab=repositories) · [Pull requests](https://github.com/pulls?q=is%3Apr+author%3Amothieras+is%3Apublic)
+**[moj-code-sandbox](https://github.com/mothieras/moj-code-sandbox)** <sub>· Java</sub><br>
+Docker-based sandbox for Java, Python, and C++ with reusable container pools and resource limits.
+
+### Open source
+
+Merged patches in
+AstrBot ([#11062](https://github.com/AstrBotDevs/AstrBot/pull/11062)),
+agentmemory ([#1703](https://github.com/rohitg00/agentmemory/pull/1703), [#1684](https://github.com/rohitg00/agentmemory/pull/1684), [#1651](https://github.com/rohitg00/agentmemory/pull/1651)),
+airi ([#3428](https://github.com/moeru-ai/airi/pull/3428)),
+pi-web-access ([#552](https://github.com/nicobailon/pi-web-access/pull/552), [#551](https://github.com/nicobailon/pi-web-access/pull/551)), and
+CodeIsland ([#361](https://github.com/wxtsky/CodeIsland/pull/361)).
