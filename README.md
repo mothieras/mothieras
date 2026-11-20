@@ -1,7 +1,7 @@
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
-  <img src="assets/hello-light.svg" alt="Hi, I'm moth." width="176">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/greeting-dark.svg">
+  <img src="assets/greeting-light.svg" alt="Hi, I'm moth." width="176" height="34">
 </picture>
 </p>
 
